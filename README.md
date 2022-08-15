@@ -1,6 +1,8 @@
 # vue-websocket-test
 
 ## Project setup
+
+Be sure to change the processor IP to the correct processor in App.Vue. Then recompile. 
 ```
 npm install
 ```
